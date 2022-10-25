@@ -105,8 +105,8 @@ body{
     z-index: 100;
     margin: 0;
 }
-@media (max-width: 1090px){
+@media (max-width: 1200px){
     .todo-list{
-        width: 240px;
+        width: 80%;
     }
 }
